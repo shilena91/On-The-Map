@@ -2,8 +2,8 @@
 
 <img width="298" alt="Screenshot 2020-04-12 at 11 25 12" src="https://user-images.githubusercontent.com/44005264/79064289-5297f480-7cb0-11ea-894e-e6b8be7e9484.png">
 
-Udacity iOS Nanodegree project app
-App use Parse server Api and Udacity Api to let user log in and add his location and his website on Apple map !
+Udacity iOS Nanodegree project app\
+App use Parse server Api and Udacity Api to let user log in and add his location and his website on Apple map!\
 You can see app's demo [here](https://youtu.be/W0h_g480sx8)
 
 ## This project focused on working with Networking and GCD
